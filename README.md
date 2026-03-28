@@ -3,11 +3,9 @@
 🚀 **Desenvolvedor Web | JavaScript | HTML5 |CSS3 | Node.js**  
 🇧🇷 Brazil
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Web
-
   Crio projetos por conta própria, como aplicações web completas, sistemas de cadastro (CRUD), sites focados em interface, usabilidade e experiência do usuário.
 
-Familiaridade com UI, UX, Git, Power BI, MySQL e base em C.
+Possuo conhecimento em UI, UX, Git, Power BI, MySQL e base em C.
 
 ---
 
